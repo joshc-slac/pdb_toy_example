@@ -8,4 +8,4 @@ This repo serves to show how one may use `pdb` to hunt down the soruce of a segf
 `make pdb_it` will launch you into a pdb shell
 
 ## What to do in pdb:
-![exampel](imgs/debug,png)
+![example](imgs/debug.png)
